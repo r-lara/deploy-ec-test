@@ -3,14 +3,14 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-  apiKey: 'AIzaSyCdHT-AYHXjF7wOrfAchX4PIm3cSj5tn14',
-  authDomain: 'crwn-db.firebaseapp.com',
-  databaseURL: 'https://crwn-db.firebaseio.com',
-  projectId: 'crwn-db',
-  storageBucket: 'crwn-db.appspot.com',
-  messagingSenderId: '850995411664',
-  appId: '1:850995411664:web:7ddc01d597846f65'
-};
+  apiKey: "AIzaSyCKRsF_unXGu1EfrggMjpmh8L3DXSkVxG4",
+  authDomain: "react-gio-commerce.firebaseapp.com",
+  databaseURL: "https://react-gio-commerce.firebaseio.com",
+  projectId: "react-gio-commerce",
+  storageBucket: "react-gio-commerce.appspot.com",
+  messagingSenderId: "263065638850",
+  appId: "1:263065638850:web:2d17f7f4a9e168f492685b"
+}
 
 firebase.initializeApp(config);
 
